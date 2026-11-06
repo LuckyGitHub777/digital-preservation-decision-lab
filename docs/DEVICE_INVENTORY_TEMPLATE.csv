@@ -1,0 +1,2 @@
+device_id,make,model,os_edition,os_activation,used_gb,storage_size_gb,interface,storage_count,partitions_reviewed,profiles_reviewed,cloud_reviewed,encryption_reviewed,notes
+DEVICE01,,,,UNKNOWN,,,,,NO,NO,NO,NO,

@@ -1,0 +1,2 @@
+device_id,all_sources_inventory_pass,archive_verified,independent_backup_verified,restore_test_pass,original_media_retained_or_sanitized,security_supported,recipient_privacy_checked,hardware_tested,manual_authorization,disposition
+DEVICE01,NO,NO,NO,NO,NO,NO,NO,NO,,HOLD
