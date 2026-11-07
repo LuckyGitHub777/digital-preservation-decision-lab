@@ -1,6 +1,8 @@
 # Digital Preservation — Decision Lab
 
-An offline decision model built from **synthetic scenarios**: 72 illustrative archive-evidence cases × 72 illustrative device-readiness cases = **5,184 modeled decisions**.
+**Explore online:** [Open the interactive web companion](https://luckygithub777.github.io/digital-preservation-decision-lab/). The site explains the model; the full Python simulation still runs from source.
+
+A synthetic-scenario decision model with an interactive online companion built from **synthetic scenarios**: 72 illustrative archive-evidence cases × 72 illustrative device-readiness cases = **5,184 modeled decisions**.
 
 ## Explore
 
