@@ -17,4 +17,4 @@ Use a new output directory for generated CSV and JSON results. The blank templat
 
 The model does **not** inspect hardware, restore backups, verify encryption, certify erasure, or establish real-world donation safety. Those outcomes require separately verified physical storage, privacy, backup and device checks. Results are illustrative, not field assurance.
 
-**License:** Apache License 2.0 ([LICENSE](LICENSE)); the existing attribution is preserved in [NOTICE](NOTICE). [MANIFEST.sha256](MANIFEST.sha256) records the released files.
+**License:** Apache License 2.0 ([LICENSE](LICENSE)); attribution is provided in [NOTICE](NOTICE). [MANIFEST.sha256](MANIFEST.sha256) records the released files.
